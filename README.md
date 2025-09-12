@@ -56,4 +56,6 @@ This guide is provided for educational and informational purposes only. The info
 
 
 
-Update:  12.09.2025 Link is now responsive and functioning
+
+
+Update:  Friday 12 September 2025 Fixed broken external url
