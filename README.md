@@ -60,4 +60,6 @@ This guide is provided for educational and informational purposes only. The info
 
 
 
-Update:  18.09.2025
+
+
+Update:  10/01/2025
